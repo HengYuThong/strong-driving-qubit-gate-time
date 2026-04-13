@@ -15,9 +15,9 @@ The code is built around the project described in the thesis:
 
 The model studied in this repository is a driven two-level system with Hamiltonian
 
-\[
-H(t)=\frac{\hbar \omega_0}{2}\sigma_z + \hbar \gamma \cos(\omega t)\sigma_x,
-\]
+$$
+H(t)=\frac{\hbar \omega_0}{2}\sigma_z + \hbar \gamma \cos(\omega t)\sigma_x
+$$
 
 where:
 
