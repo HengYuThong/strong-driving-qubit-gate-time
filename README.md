@@ -114,13 +114,11 @@ This script is useful for producing the illustrative single-run plots used in th
 strong-driving-qubit-gate-time/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 ├── scripts/
-│   ├── weak_rwa.py
-│   ├── ashhab_near_resonant_scan.py
-│   ├── ashhab_resonance_enforced_scan_and_diagnostics.py
-│   └── ashhab_single_run.py
-└── docs/
+   ├── weak_rwa.py
+   ├── ashhab_near_resonant_scan.py
+   ├── ashhab_resonance_enforced_scan_and_diagnostics.py
+   └── ashhab_single_run.py
 ```
 
 ## Requirements
