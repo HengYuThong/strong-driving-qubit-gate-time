@@ -189,16 +189,4 @@ for convenience.
 - **Study strong-driving diagnostics and validity indicators** -> run `ashhab_resonance_enforced_scan_and_diagnostics.py`
 - **Generate representative single-run comparisons** -> run `ashhab_single_run.py`
 
-## Possible future cleanup
 
-If this repository is going to be shared publicly, a good next step would be to:
-
-- refactor repeated utilities into a shared module
-- standardize variable names across scripts
-- add figure-saving options instead of only interactive plotting
-- separate plotting, numerics, and scan logic into reusable functions
-- include a PDF version of the thesis in `docs/`
-
-## Suggested repository description
-
-**Strong-driving qubit gate-time prediction beyond weak RWA: exact simulations, Ashhab-inspired scans, and fidelity diagnostics for a transverse harmonic drive.**
